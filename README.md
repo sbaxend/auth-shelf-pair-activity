@@ -6,17 +6,19 @@ Our client, Prime Digital Academy: Room 2, has asked for an app to simulate the 
 
 ### Display all Items (Read)
 
-The Shelf page (`ShelfPage.js` at `/shelf`) should show all of the items stored in the database in a list or table. **Logged in users should be able to see ALL items on the shelf.**
+[x] The Shelf page (`ShelfPage.js` at `/shelf`) should show all of the items stored in the database in a list or table. 
+[x] **Logged in users should be able to see ALL items on the shelf.**
 
 ### Add Items to the Shelf (Create)
 
-The Shelf page (`ShelfPage.js` at `/shelf`) should allow a user to add a new item to the database (which should immediately appear in the list). **Users must be logged in to add an item to the shelf.**
+[x] The Shelf page (`ShelfPage.js` at `/shelf`) should allow a user to add a new item to the database (which should immediately appear in the list). 
+[x] **Users must be logged in to add an item to the shelf.**
 
 > NOTE: Image url should be a full path to an existing image on the web. You should not attempt to implement image upload for this.
 
 ### Delete Items from the Shelf (Delete)
 
-An authenticated user should be able to delete items from the shelf.
+[x] An authenticated user should be able to delete items from the shelf.
 
 ## Stretch Goals
 
